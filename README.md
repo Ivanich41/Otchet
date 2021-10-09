@@ -25,3 +25,8 @@ Root Me: Попробовал себя в категориях веба, кри�
 Заработал 325 очков на root.me. Опробовал Web-clent,Web-server,Cracking,Steganography и Network . Наиболее интересны Web и Steganography. 
 Планирую улучшать навыки в Cryptoanalysis. 
 ### Сергеев
+#### [Ctf-writeups.ru](https://ctf-writeups.ru):
+* Решил [этот](https://ctf-writeups.ru/2k17/seccon-2017-online-ctf/run-me/) ppc таск, немного взяв подсказку
+* [Этот](https://ctf-writeups.ru/2k18/innoctf-2018-quals/better-than-aes/) таск решаю, почти получилось, но при некоторых случаях получается неверный ответ, позже доработаю и запастбиню сюда своё решение
+#### [Hack The Box](https://www.hackthebox.eu/)
+* Решил все - доступные без vip - машины [Starting point](https://app.hackthebox.eu/starting-point): Meow, Fawn, Dancing
